@@ -88,6 +88,7 @@ This project is licensed under the **BSD 3-Clause License**.
 ---
 
 ## 📬 Contact
+Email - abhik2018ghosh@gmail.com
 
 For queries, suggestions, or collaboration, feel free to open an issue on the repository.
 
